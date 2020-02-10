@@ -7,12 +7,10 @@ console.log(y);
 console.log(z);
 
 if (x>y&&x>z) {
-    console.log(x);
+    console.log(El mayor es: ",x);
 } else {if (y>x&&y>z) {
-    console.log(y);
+    console.log(El mayor es: ",y);
 } else {
-    console.log("El mayor es: ",z);
-    
-}
-    
+    console.log("El mayor es: ",z);  
+} 
 }
