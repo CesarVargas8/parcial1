@@ -7,9 +7,9 @@ console.log(y);
 console.log(z);
 
 if (x>y&&x>z) {
-    console.log(El mayor es: ",x);
+    console.log("El mayor es: ",x);
 } else {if (y>x&&y>z) {
-    console.log(El mayor es: ",y);
+    console.log("El mayor es: ",y);
 } else {
     console.log("El mayor es: ",z);  
 } 
